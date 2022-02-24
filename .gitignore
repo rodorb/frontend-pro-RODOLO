@@ -1,0 +1,8 @@
+sol/
+notes*.md
+package-lock.json
+node_modules/
+.env
+*.pptx
+dist/
+
